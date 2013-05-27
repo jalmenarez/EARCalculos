@@ -22,6 +22,7 @@ public class ServletValidaLogin extends HttpServlet {
     
     @EJB
     private EJBValida ejbValida;
+    
     /**
      * Processes requests for both HTTP
      * <code>GET</code> and
